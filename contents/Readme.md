@@ -51,15 +51,40 @@ Learn To Develop Discord Bots in 2023 With Updated New Content
 <details>
   <summary> Section 3: (Optional) Nodejs Basics (2023) </summary>
 
-  -   [17.  ]()      
-  -   [18.  ]()     
+  -   [17. Section Objective](17_Section-Objective.md)      
+  -   [18. console.log()](18_console.log().md)     
+  -   [19. Variables and Variable Types](19_Variables-and-Variable-Types.md)     
+  -   [20. console.log + variables](20_console.log-variables.md)     
+  -   [21. For loops](21_For-loops.md)     
+  -   [22. Array](22_Array.md)     
+  -   [23. For loop + Array](23_for-loop-Array.md)     
+  -   [24. if else statement](24_if-else-statement.md)     
+  -   [25. If Statements Text Lecture](25_If-Statements-Text-Lecture.md)     
+  -   [26. Functions](26_functions.md)     
+  -   [27. functions text lecture](27_functions-text-lecture.md)     
+  -   [28. JSON Data Preperation](28_JSON-Data-Preperation.md)     
+  -   [29. JSON Data text lecture](29_JSON-Data-text-lecture.md)     
+  -   [30. Temperature Converter Program](30_Temperature-Converter-Program.md)     
+  -   [31. Weight Converter Program](31_Weight-Converter-Program.md)     
+  -   [32. Writing Comments](32_Writing-Comments.md)     
+  -   [33. Convert Milliseconds to Date and Time](33_Convert-Milliseconds-to-Date-and-Time.md)     
+  -   [34. .forEach() is not a function](34_forEach()-is-not-a-function.md)     
+  -   [35. When to use const variable](35_When-to-use-const-variable.md)     
+  -   [36. The Next Step](36_The-Next-Step.md)     
 </details>
 
 <details>
   <summary> Section 4: Hello World Bot Updated (2023) </summary>
 
-  -   [37.  ]()      
-  -   [38.  ]()     
+  -   [37. ]()      
+  -   [38. ]()     
+</details>
+
+<details>
+  <summary> Section 5: Hosting A Discord bot & Web Servers (2023) </summary>
+
+  -   [55. ]()      
+  -   [56. ]()     
 </details>
 
 
