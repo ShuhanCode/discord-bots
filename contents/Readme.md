@@ -25,19 +25,41 @@ Learn To Develop Discord Bots in 2023 With Updated New Content
 <details>
   <summary> Section 1: Introduction </summary>
 
-  -   [1. In this course](./1_In-this-course.md)      
-  -   [2. Instructor introduction](./2_Instructor-introduction.md)     
-  -   [3. Course updates for free](./3_Course-updates-for-free.md)     
-  -   [4. Course Updates List (2023)](./4_Course-Updates-List-(2023).md)     
-  -   [5. At Your Own Pace](./5_At-Your-Own-Pace.md)     
-  -   [6. Course Structure & What you want](./6_Course-Structure-%26-What-you-want.md)     
+  -   [1. In this course](1_In-this-course.md)      
+  -   [2. Instructor introduction](2_Instructor-introduction.md)     
+  -   [3. Course updates for free](3_Course-updates-for-free.md)     
+  -   [4. Course Updates List (2023)](4_Course-Updates-List-(2023).md)     
+  -   [5. At Your Own Pace](5_At-Your-Own-Pace.md)     
+  -   [6. Course Structure & What you want](6_Course-Structure-%26-What-you-want.md)     
 </details>
 
 <details>
   <summary> Section 2: Prerequisites (2023) </summary>
 
-  -   [7.  ]()      
-  -   [8.  ]()     
+  -   [7.  Section Objective](7_Section-Objective.md)      
+  -   [8.  Links to Software Required](8_Links-to-Software-Required.md)     
+  -   [9.  Nodejs Programming Language](9_Nodejs-Programming-Language.md)     
+  -   [10. Visual Studio Code](10_Visual-Studio-Code.md)   
+  -   [11. Version Control of Software](11_Version-Control-of-Software.md)   
+  -   [12. Visual Studio Code Commands](12_Visual-Studio-Code-Commands.md)   
+  -   [13. Creating a new Discord Server](13_Creating-a-new-Discord-Server.md)   
+  -   [14. Creating a Discord Bot Application](14_Creating-a-Discord-Bot-Application.md)   
+  -   [15. save + restart bot file](15_save-%2B-restart-bot-file.md)   
+  -   [16. The Next Step](16_The-Next-Step.md)   
+</details>
+
+<details>
+  <summary> Section 3: (Optional) Nodejs Basics (2023) </summary>
+
+  -   [17.  ]()      
+  -   [18.  ]()     
+</details>
+
+<details>
+  <summary> Section 4: Hello World Bot Updated (2023) </summary>
+
+  -   [37.  ]()      
+  -   [38.  ]()     
 </details>
 
 
