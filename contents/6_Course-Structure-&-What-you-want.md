@@ -8,4 +8,4 @@
 
 ---
 
-[Previous](./5_At-Your-Own-Pace.md) | [Next]()
+[Previous](./5_At-Your-Own-Pace.md) | [Next](./7_Section-Objective.md)
