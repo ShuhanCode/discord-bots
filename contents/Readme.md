@@ -76,8 +76,24 @@ Learn To Develop Discord Bots in 2023 With Updated New Content
 <details>
   <summary> Section 4: Hello World Bot Updated (2023) </summary>
 
-  -   [37. ]()      
-  -   [38. ]()     
+  -   [37. Section Objective](./37_Section-Objective.md)      
+  -   [38. Course & Code Update 2023](./38_Course-n-Code-Update-2023.md)     
+  -   [39. Creating a Discord Server](./39_Creating-a-Discord-Server.md)     
+  -   [40. Discord Bot Creation](./40_Discord-Bot-Creation.md)     
+  -   [41. Inviting the Bot Update](./41_Inviting-the-Bot-Update.md)     
+  -   [42. app.js + Inviting the Bot](./42_app.js-Inviting-the-Bot.md)     
+  -   [43. Discord.js](./43_Discord.js.md)     
+  -   [44. npm Installation](./44_npm-Installation.md)     
+  -   [45. Discord.js Course Update](./45_Discord.js-Course-Update.md)     
+  -   [46. Client Intents Partials Update](./46_Client-Intents-Partials-Update.md)     
+  -   [47. Ready & Login Update](./47_Ready-n-Login-Update.md)     
+  -   [48. Token Safety Update](./48_Token-Safety-Update.md)     
+  -   [49. Hello World! Update](./49_Hello-World!-Update.md)     
+  -   [50. Help Commands Update](./50_Help-Commands-Update.md)     
+  -   [51. Math Example Update](./51_Math-Example-Update.md)     
+  -   [52. .createdTimestamp Update](./52_.createdTimestamp-Update.md)     
+  -   [53. Node.js Promise Update](./53_Node.js-Promise-Update.md)     
+  -   [54. .joinedTimestamp Update](./54_.joinedTimestamp-Update.md)     
 </details>
 
 <details>
@@ -85,6 +101,16 @@ Learn To Develop Discord Bots in 2023 With Updated New Content
 
   -   [55. ]()      
   -   [56. ]()     
+  -   [57. ]()     
+  -   [58. ]()     
+  -   [59. ]()     
+</details>
+
+<details>
+  <summary> Section 6: Rock, Paper or Scissors Bot (2023) </summary>
+
+  -   [60. ]()      
+  -   [61. ]()     
 </details>
 
 

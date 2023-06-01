@@ -6,4 +6,4 @@
 
 ---
 
-[Previous](./35_When-to-use-const-variable.md) | [Next]()
+[Previous](./35_When-to-use-const-variable.md) | [Next](./37_Section-Objective.md)
