@@ -1,6 +1,6 @@
-// ID: 934412643840720956
+// ID: 1113562758265442355
 // TOKEN: hidden inside a secret file.
-// Invite link: https://discord.com/api/oauth2/authorize?client_id=934412643840720956&scope=bot&permissions=1
+// Invite link: https://discord.com/oauth2/authorize?client_id=1113562758265442355&scope=bot&permissions=1
 
 const Discord = require("discord.js"); // discord.js node module.
 

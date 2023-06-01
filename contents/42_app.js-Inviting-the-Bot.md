@@ -2,4 +2,4 @@
 
 ---
 
-[Previous](./41_Inviting-the-Bot-Update.md) | [Next](./42_app.js-Inviting-the-Bot.md)
+[Previous](./41_Inviting-the-Bot-Update.md) | [Next](./43_Discord.js.md)

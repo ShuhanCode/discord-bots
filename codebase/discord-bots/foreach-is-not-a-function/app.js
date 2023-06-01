@@ -14,9 +14,9 @@ newArr.forEach(function(b) {
     console.log(b);
 });
 
-/*variable.forEach((c => {
+/* variable.forEach((c => {
     console.log(c);
-}));*/
+})); */
 
 // forEach is not a function = you can only run forEach function on an array.
 
